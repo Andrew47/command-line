@@ -1,0 +1,9 @@
+mv is used to move files from one place to another. 
+
+After typing mv, we type the name of the file we wish to move
+Then we type the path to where we want to move the file.
+
+The final part of this path indicates the name that we would like to give
+to the file once it has moved.
+
+If we do not indicate a path, then we are simply using mv to rename the file
